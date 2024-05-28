@@ -14,3 +14,5 @@
 3. описательная аналитика продуктовых метрик;
 4. создание презентации для внутреннего заказчика.
 
+[Ссылка на дашборд в Tableau Public.](https://public.tableau.com/app/profile/valeryia1682/viz/Onlinecinema/Dashboard1)
+
